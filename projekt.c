@@ -10,8 +10,12 @@ void graficke_prostredie(){
 
 // 11.12.2012 -- Upravena grafika 
 
+// 11.12.2012 -- Kontrola udajov, premenne
 void main(){
     printf("Zaciname robit na projekte");
 	printf("Vitajte v programe Dodavka cez internet");
 	printf("Pokracujte lubovolnou klavesou");
+	int pocet;
+	double cena;
+	char nazov[80];
 }
