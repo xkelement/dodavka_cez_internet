@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+void graficke_prostredie(){
+	// zaciatok grafickeho prostredia
+}
+
 // Zaciatok tvorena kodu pre Dodavku cez internet
 
 // 11.12.2012 -- Pridal som printf
