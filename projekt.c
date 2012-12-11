@@ -2,7 +2,9 @@
 
 // Zaciatok tvorena kodu pre Dodavku cez internet
 
-int main(){
+// 11.12.2012 -- Pridal som printf
+
+void main(){
     printf("Zaciname robit na projekte");
-    return 0;
+	printf("Vitajte v programe Dodavka cez internet");
 }
