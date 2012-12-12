@@ -14,9 +14,11 @@ void graficke_prostredie(){
 
 // Chyba v uvitani
 
+// Skotrolované pripomienky
+
 void main(){
     printf("Zaciname robit na projekte");
-	printf("Vitajte v programe Dodavka cez internet");
+	printf("Vita vas program Dodavka cez internet");
 	printf("Pokracujte lubovolnou klavesou");
 	int pocet;
 	double cena;
