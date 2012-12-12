@@ -11,6 +11,9 @@ void graficke_prostredie(){
 // 11.12.2012 -- Upravena grafika 
 
 // 11.12.2012 -- Kontrola udajov, premenne
+
+// Chyba v uvitani
+
 void main(){
     printf("Zaciname robit na projekte");
 	printf("Vitajte v programe Dodavka cez internet");
